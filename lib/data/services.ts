@@ -19,8 +19,7 @@ export const SERVICES: Service[] = [
     description:
       "Asigurăm servicii de transport rutier internațional pe toate rutele majore din Uniunea Europeană, cu o flotă proprie modernă, conformă cu cele mai recente norme Euro. Coordonăm fiecare expediție end-to-end, monitorizăm în timp real și garantăm livrări la termen, indiferent de complexitatea operațiunii.",
     icon: "Truck",
-    image:
-      "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=1600&q=80",
+    image: "/transport.png",
     benefits: [
       "Acoperire completă în UE și SEE",
       "Flotă proprie Euro 6 cu echipamente moderne",
